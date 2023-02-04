@@ -11,10 +11,12 @@ text-shadow: 1px 1px black;
 
 h1, h2 {
 text-align: center;
-font-size: 36px;
 color: white;
 text-shadow: 1px 1px black;
 margin: 0;
+}
+h2 {
+font-size: 36px;
 }
 
 .headerr {
