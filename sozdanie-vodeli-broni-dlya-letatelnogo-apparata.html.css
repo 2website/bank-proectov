@@ -1,0 +1,76 @@
+body {
+          background-color: #E5FAFF;
+          font-family: sans-serif;
+        }
+        h1 {
+          text-align: center;
+          font-size: 48px;
+          color: white;
+          text-shadow: 1px 1px black;
+        }
+    h1, h2, h3, h4 {
+      text-align: center;
+      color: white;
+      text-shadow: 1px 1px black;
+      margin: 0px;
+    }
+    h2 {
+      font-size: 36px;
+    }
+    h3 {
+      font-size: 32px;
+      margin: 15px;
+    }
+    h4 {
+      font-size: 28px;
+    }
+    .header {
+      background-color: #162EAE;
+      height: max-content;
+      justify-content: center;
+      align-items: center;
+    }
+    .img-text {
+      display: flex;
+      flex-wrap: wrap;
+      margin-top: 45px;
+      justify-content: center;
+
+    }
+    .image {
+      width: 450px;
+      margin-right: 20px;
+      float: left;
+      border: 3px solid black;
+    }
+    
+    .text {
+      padding-top: 50px;
+      width: 600px;
+      float: left;
+      margin-left: 20px;
+    }
+    .text1 {
+        background-color: #FF6E4E;
+        text-align: center;
+        border: 1px solid black;
+        width: 600px;
+    }
+    h1 {
+      font-size: 36px;
+      color: white;
+      margin: 0;
+    }
+    
+    .project-name {
+      border: 1px solid black;
+      width: 600px;
+      text-align: center;
+      float: left;
+      margin-top: 30px;
+      font-size: 22px;
+    }
+a {
+    color: black;
+    font-weight: bold;
+}
