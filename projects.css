@@ -56,11 +56,6 @@ body {
         border: 1px solid black;
         width: 600px;
     }
-    h1 {
-      font-size: 36px;
-      color: white;
-      margin: 0;
-    }
     
     .project-name {
       border: 1px solid black;
