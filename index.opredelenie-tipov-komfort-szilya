@@ -1,0 +1,27 @@
+<html>
+  <head>
+    <title>Определение типов комфортного жилья</title>
+    <link rel ="stylesheet" href="projects.css"
+  </head>
+<body>
+    <div class="header">
+      <h1><a style="text-decoration:none; color:white;" href="index.html">Банк проектов</a></h1>
+      <p></p>
+      <h2><a style="text-decoration:none; color:white;" href="index-tems-projects.html">Выбор тем проектов</a></h2>
+      <h3><a style="text-decoration:none; color:white;" href="index-projects-s-matem.html">Проекты с математическими вычислениями</a></h3>
+      <h4><a style="text-decoration:none; color:white;" href="index.opredelenie-tipov-komfort-szilya">Определение типов комфортного жилья</a></h4>
+    </div>
+    <div class ='img-text'>
+        <img class="image" src="https://media.discordapp.net/attachments/897112552079753226/1075804345083363348/image.png?width=674&height=676">
+        <div class="text">
+            <div class="text1">
+                <h1>Определение типов комфортного жилья</h1>
+            </div>
+            <div class="project-name">
+                <p>Автор: Агалаков Максим Алексеевич</p>
+                <a href="https://disk.yandex.ru/d/l8eKn8kskJ2dEw">Смотреть проект</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
